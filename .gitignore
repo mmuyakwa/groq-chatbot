@@ -50,3 +50,7 @@ app_OLD.py
 info.txt
 DocumentFiles.txt
 setup_env.sh
+
+# Mac files
+*/.DS_Store
+.DS_Store
