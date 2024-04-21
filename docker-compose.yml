@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  groqchat:
+    container_name: groqchat
+    hostname: groqchat
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - "GROQ_API_KEY=${GROQ_API_KEY}"
+    ports:
+      - 8501:8501

@@ -1,0 +1,53 @@
+installers/mariadb-installieren.txt
+.travis.yml
+
+# ignore 
+Todos/
+dnscrypt/
+motion/
+.venv/
+
+# Laravel
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+.venv
+app_Backup.py
+app_OLD.py
+info.txt
+DocumentFiles.txt
+setup_env.sh
+.github/workflows
