@@ -29,7 +29,7 @@ pandas==2.2.2
 pillow==10.3.0
 protobuf==5.27.0
 pyarrow==16.1.0
-pydantic==2.7.1
+pydantic==2.7.2
 pydantic_core==2.18.2
 pydeck==0.9.1
 Pygments==2.18.0
