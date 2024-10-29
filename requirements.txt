@@ -28,7 +28,7 @@ packaging==24.1
 pandas==2.2.3
 pillow==11.0.0
 protobuf==5.28.3
-pyarrow==17.0.0
+pyarrow==18.0.0
 pydantic==2.9.2
 pydantic_core==2.24.2
 pydeck==0.9.1
