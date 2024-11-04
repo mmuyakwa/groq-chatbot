@@ -30,7 +30,7 @@ pillow==11.0.0
 protobuf==5.28.3
 pyarrow==18.0.0
 pydantic==2.9.2
-pydantic_core==2.24.2
+pydantic_core==2.26.0
 pydeck==0.9.1
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
