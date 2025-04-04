@@ -38,7 +38,7 @@ python-dotenv==1.0.1
 pytz==2025.1
 referencing==0.36.2
 requests==2.32.3
-rich==13.9.4
+rich==14.0.0
 rpds-py==0.24.0
 six==1.17.0
 smmap==5.0.2
