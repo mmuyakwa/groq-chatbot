@@ -50,6 +50,6 @@ toml==0.10.2
 toolz==1.1.0
 tornado==6.5.2
 typing_extensions==4.15.0
-tzdata==2025.2
+tzdata==2025.3
 urllib3==2.6.0
 watchdog==6.0.0
