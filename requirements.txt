@@ -28,7 +28,7 @@ numpy==2.4.1
 packaging==25.0
 pandas==2.3.3
 pillow==12.1.0
-protobuf==6.33.3
+protobuf==6.33.4
 pyarrow==23.0.0
 pydantic==2.12.5
 pydantic_core==2.41.5
